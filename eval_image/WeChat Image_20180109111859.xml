@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>WeChat Image_20180109111859.jpg</filename>
+	<path>/home/songwb/samba/ar/photo/WeChat Image_20180109111859.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>temperature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>444</ymin>
+			<xmax>945</xmax>
+			<ymax>1184</ymax>
+		</bndbox>
+	</object>
+</annotation>

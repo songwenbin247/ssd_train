@@ -1,0 +1,38 @@
+<annotation>
+	<folder>usb</folder>
+	<filename>image48.jpg</filename>
+	<path>/home/songwb/samba/ar/photo/usb/image48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>modbus bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>161</ymin>
+			<xmax>477</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>modbus bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>54</ymin>
+			<xmax>93</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>
